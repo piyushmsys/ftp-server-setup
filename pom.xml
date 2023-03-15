@@ -10,7 +10,6 @@
   <description>Apache Ftp Server initialization</description>
 
   <name>ftp-server-init</name>
-  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
