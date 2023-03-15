@@ -34,7 +34,7 @@ Apache FTP server configuration on the local system
 * List of FTP commands can be checked [here](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ftp)
 * Use the below command to upload/download the file from the FTP server
 * We will use [put](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ftp-put) command to upload file to remote server
-* We will use [get](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ftp-get) command to upload file to remote server
+* We will use [get](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ftp-get) command to download file from remote server
 * Alternative command for put is [send](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ftp-send_1) and for get is [recv](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ftp-recv)
 ```
     # Please make sure you are connected to the FTP server
