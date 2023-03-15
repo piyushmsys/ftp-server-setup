@@ -13,8 +13,8 @@ Apache FTP server configuration on the local system
 ```
 * Get server details
     * Your system IP will be your server host (localhost may not work), you can find your system IP using ```ipconfig``` command
-* For more details on the configuration you can look into [ftpd-typical.xml]() and [users.properties]() file
-* Update server configuration in application.properties file(If you have not change any conf in apache conf folder file just change server host with your system ip)
+* For more details on the configuration you can look into ```ftpd-typical.xml``` and ```users.properties`` file in apache ```res/conf``` directory.
+* Update server configuration in (application.properties)[application.properties] file(If you have not change any conf in apache conf folder file just change server host with your system ip)
 * Update ```ftp.server.subdirectories``` key in application.properties if required
 * Run ```com.msys.App.Java``` and you are ready with FTP server setup
 
